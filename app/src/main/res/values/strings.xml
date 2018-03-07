@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Button Challenge</string>
+
+    <string name="dialog_title_user">Add User</string>
+    <string name="dialog_title_transfer">New Transfer</string>
+    <string name="dialog_name_hint">Please enter the user\'s name.</string>
+    <string name="dialog_email_hint">Please enter the user\'s email.</string>
+    <string name="dialog_id_hint">Please enter the user\'s ID.</string>
+    <string name="dialog_amount_hint">Please enter the transfer amount.</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_add">Add User</string>
+    <string name="dialog_button_transfer">Transfer</string>
+
+    <string name="user_transfers">Transfers:</string>
+
+    <string name="other_placeholder_name">John Doe</string>
+    <string name="other_placeholder_email">john@doe.com</string>
+    <string name="other_placeholder_id">1337</string>
+    <string name="other_placeholder_count">-1</string>
+    <string name="other_placeholder_transfer">You sent $42 to John Doe</string>
+    <string name="other_desc_delete">Delete user</string>
+
+    <string name="message_userlist_useradded">User successfully added!</string>
+    <string name="message_userlist_userdeleted">User successfully deleted!</string>
+    <string name="message_transfer_added">Successfully transferred!</string>
+
+    <string name="error_userlist_message">You do not have any assigned users.\nTry adding one!</string>
+    <string name="error_userlist_network">There was an error connecting to the API service.</string>
+    <string name="error_userlist_delete">There was an error deleting the user!</string>
+    <string name="error_dialog_email">You must enter a valid email!</string>
+</resources>
